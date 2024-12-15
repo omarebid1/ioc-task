@@ -1,0 +1,1 @@
+In this task, I applied the Inversion of Control (IoC) concept using XML configuration to manage beans and their dependencies. By defining beans in the XML configuration, I ensured that object creation and dependency injection are handled outside of the class, promoting loose coupling. This approach leverages IoC to allow for more flexible and maintainable code.
